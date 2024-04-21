@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include<windows.h>
 using namespace std;
 
@@ -22,11 +22,11 @@ void main()
 	////to_lower(str);
 	//to_upper(str);
 	//cout << str;
-	char str[n] = "Õîðîøî        æèâåò    íà   ñâåòå      Âèííè    Ïóõ";
+	char str[n] = "Ð¥Ð¾Ñ€Ð¾ÑˆÐ¾        Ð¶Ð¸Ð²ÐµÑ‚    Ð½Ð°   ÑÐ²ÐµÑ‚Ðµ      Ð’Ð¸Ð½Ð½Ð¸    ÐŸÑƒÑ…";
 	cout << str<<endl;
 	shrink(str);
 	cout << str;
-
+	 
 	/*for (int i = 0; i < 255; i++)
 	{
 		str = i;
