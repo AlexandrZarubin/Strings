@@ -12,7 +12,7 @@ void shrink(char* str);
 void main()
 {
 	SetConsoleCP(1251);
-	SetConsoleOutputCP(1251);
+	//SetConsoleOutputCP(1251);
 	const int n = 256;
 	//char str = 0;
 	
